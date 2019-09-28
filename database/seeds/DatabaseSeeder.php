@@ -10,7 +10,7 @@ class DatabaseSeeder extends Seeder
 {
     public function run()
     {
-        DB::statement('SET FOREIGN_KEY_CHECKS = 0'); // Desactiva la verificación de las claves foráneas, esto se hace para poder eliminar datos con dichas claves
+        //DB::statement('SET FOREIGN_KEY_CHECKS = 0'); // Desactiva la verificación de las claves foráneas, esto se hace para poder eliminar datos con dichas claves
         User::truncate();
         DB::table('role_user')->truncate();
 
