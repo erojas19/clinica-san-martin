@@ -74,7 +74,7 @@ class DatabaseSeeder extends Seeder
                  array('role_id' => 1,   'permission_id' => 41),
                  array('role_id' => 1, 'permission_id' => 42),
                  array('role_id' => 1,   'permission_id' => 43),
-                 array('role_id' => 1, 'permission_id' => 44),
+                 // array('role_id' => 1, 'permission_id' => 44),
 
             ));
 
