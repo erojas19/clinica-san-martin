@@ -18,7 +18,7 @@
       </div>
       </div>
       <div id="project">
-        <div><span>RUT</span>{{$pacientes->rut}}</div>
+        <div><span>CI</span>{{$pacientes->rut}}</div>
         <div><span>PACIENTE</span> {{$pacientes->nombres}} {{$pacientes->apellidos}}</div>
         <div><span>GÉNERO</span> {{$pacientes->genero}}</div>
         <div><span>PROFESIÓN/OFICIO</span> {{$pacientes->titulo}}</div>

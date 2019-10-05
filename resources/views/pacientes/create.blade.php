@@ -15,7 +15,7 @@
                                 <div class="row">
                                     <div class="col-md-6"> 
                                         <div class="form-group label-floating">
-                                              {!! Form::label('rut', 'Rut', ['class' => 'control-label ']); !!}
+                                              {!! Form::label('rut', 'CI', ['class' => 'control-label ']); !!}
                                               {!! Form::text('rut', null, ['class' => 'form-control']); !!}
                                         </div>
                                     </div>

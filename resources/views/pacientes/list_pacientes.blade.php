@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <th>Acciones</th>
-            <th>Rut</th>
+            <th>CI</th>
             <th>Nombres</th>
             <th>Apellidos</th>
             <th>Teléfono</th>

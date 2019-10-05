@@ -8,7 +8,7 @@
                         <div class="row sinpadding">
                             <div class="col-md-12">
                                 <div class="form-group label-floating">
-                                    <label class="control-label">Rut:</label>
+                                    <label class="control-label">CI:</label>
                                     <input type="text" class="form-control" id="rut_add" name="rut_add">
                                 </div>
                             </div>

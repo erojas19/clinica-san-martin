@@ -25,7 +25,7 @@
                     <table class="table">
                             <tbody>
                                 <tr>
-                                    <th>Rut:</th>
+                                    <th>CI:</th>
                                     <td id="rut"></td>
                                 </tr>
                                 <tr>

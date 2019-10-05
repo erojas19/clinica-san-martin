@@ -2,7 +2,7 @@
 <table id="personas" class="table dataTable table-responsive nowrap dataTables_wrapper table-striped table-no-bordered table-hover">
     <thead>
         <tr>
-            <th>Rut</th>
+            <th>CI</th>
             <th>Nombre</th>
             <th>Apellidos</th>
             <th>Email</th>
