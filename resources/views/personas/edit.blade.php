@@ -40,7 +40,7 @@
                             <div class="row">
                                 <div class="col-md-6"> 
                                     <div class="form-group label-floating">
-                                        {!! Form::label('rut', 'Rut'); !!}
+                                        {!! Form::label('rut', 'CI'); !!}
                                         {!! Form::text('rut', null, ['readonly', 'class' => 'form-control']); !!}
                                     </div>
                                 </div>

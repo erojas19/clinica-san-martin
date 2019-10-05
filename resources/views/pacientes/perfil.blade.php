@@ -26,7 +26,7 @@
                         <table class="table">
                             <tbody>
                                 <tr>
-                                    <th class="text-right">Rut:</th>
+                                    <th class="text-right">CI:</th>
                                     <td>{!! $paciente->rut !!}</td>
                                 </tr>
                                 <tr>
