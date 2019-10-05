@@ -1,12 +1,12 @@
 <div class="sidebar" data-active-color="rose" data-background-color="black" data-image="{{ asset('assets/img/sidebar.jpg') }}">
     <div class="logo">
-        <a href="http://www.creative-tim.com" class="simple-text">
-            DOCLICK
+        <a href="#" class="simple-text">
+            DS-MEDICAL
         </a>
     </div>
     <div class="logo logo-mini">
-        <a href="http://www.creative-tim.com" class="simple-text">
-            Dc
+        <a href="#" class="simple-text">
+            DS-MEDICAL
         </a>
     </div>
     <div class="sidebar-wrapper">
