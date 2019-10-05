@@ -18,7 +18,7 @@
     <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">-->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons" />
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>{{ config('app.name', 'DS-MEDICAL') }}</title>
 
     <!-- Styles
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
@@ -35,12 +35,12 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href=" ../dashboard.html ">Bienvenidos a DoClick</a>
+                <a class="navbar-brand" href=" ../dashboard.html ">Bienvenidos a DS-MEDICAL</a>
             </div>
         </div>
     </nav>
     <div class="wrapper wrapper-full-page">
-        <div class="full-page login-page" filter-color="black" data-image="{{ asset('images/rawpixel-com-609002-unsplash.jpg') }}">
+        <div class="full-page login-page" filter-color="black" data-image="{{ asset('images/rawpixel-com-593598-unsplash.jpg') }}">
             <!--   you can change the color of the filter page using: data-color="blue | purple | green | orange | red | rose " -->
             <div class="content">
                 <div class="container">
@@ -88,7 +88,6 @@
                         <script>
                             document.write(new Date().getFullYear())
                         </script>
-                        <a href="http://www.serviline.cl">Serviline</a>, Hecho para mejorar las gestiones administrativas.
                     </p>
                 </div>
             </footer>
